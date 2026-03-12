@@ -1,8 +1,7 @@
 # CampusConnect Pro
+## AI-Assisted Internship Management Platform
 
-### AI-Assisted Internship Management Platform
-
-**CampusConnect Pro** is a full-stack web application designed to simplify the internship recruitment process by connecting **students and companies on a single platform**.
+CampusConnect Pro is a full-stack web application designed to simplify the internship recruitment process by connecting **students and companies on a single platform**.
 
 Students can upload resumes and apply for internships, while companies can post internship opportunities and review applications. The system also includes **AI-assisted resume parsing and skill-based candidate matching** to help identify relevant candidates.
 
@@ -14,70 +13,62 @@ This project was developed as a **college software engineering project** to demo
 
 The goal of this project is to create a platform where:
 
-• Students can search and apply for internships
-• Companies can post and manage internship opportunities
-• Resumes can be uploaded and analyzed
-• Candidates can be matched to internships based on skills
+- Students can search and apply for internships  
+- Companies can post and manage internship opportunities  
+- Resumes can be uploaded and analyzed  
+- Candidates can be matched to internships based on skills  
 
-The project demonstrates concepts such as **authentication systems, REST API development, database modeling, and basic AI-based matching techniques.**
+The project demonstrates concepts such as **authentication systems, REST API development, database modeling, and AI-assisted matching techniques.**
 
 ---
 
 # Tech Stack
 
-### Frontend
+## Frontend
+- React / Next.js  
+- Tailwind CSS  
+- Axios  
 
-• React / Next.js
-• Tailwind CSS
-• Axios
+## Backend
+- Node.js  
+- Express.js  
 
-### Backend
+## Database
+- MongoDB  
+- Mongoose  
 
-• Node.js
-• Express.js
+## AI / NLP Components
+- Resume parsing  
+- Skill extraction  
+- TF-IDF based similarity matching  
+- Basic semantic similarity techniques  
 
-### Database
-
-• MongoDB
-• Mongoose
-
-### AI / NLP Components
-
-• Resume parsing
-• Skill extraction
-• TF-IDF based similarity matching
-• Basic semantic similarity techniques
-
-### Dev Tools
-
-• Docker
-• GitHub
-• Nginx (for deployment configuration)
+## Dev Tools
+- Docker  
+- GitHub  
+- Nginx (deployment configuration)
 
 ---
 
 # Key Features
 
-### Student Features
+## Student Features
+- Student registration and login  
+- Resume upload  
+- Browse available internships  
+- Apply for internships  
+- View application status  
 
-• Student registration and login
-• Resume upload
-• Browse available internships
-• Apply for internships
-• View application status
+## Company Features
+- Company account creation  
+- Post internship opportunities  
+- View candidate applications  
+- Review uploaded resumes  
 
-### Company Features
-
-• Company account creation
-• Post internship opportunities
-• View candidate applications
-• Review uploaded resumes
-
-### AI-Assisted Features
-
-• Resume parsing for extracting skills
-• Skill-based candidate matching
-• Candidate ranking based on internship requirements
+## AI-Assisted Features
+- Resume parsing for extracting skills  
+- Skill-based candidate matching  
+- Candidate ranking based on internship requirements  
 
 ---
 
@@ -85,9 +76,9 @@ The project demonstrates concepts such as **authentication systems, REST API dev
 
 The application follows a simple **three-layer architecture**:
 
-Frontend → React / Next.js
-Backend → Node.js + Express
-Database → MongoDB
+Frontend → React / Next.js  
+Backend → Node.js + Express  
+Database → MongoDB  
 
 ```
 Student / Company
@@ -141,7 +132,7 @@ CampusConnect-Pro
 
 Clone the repository:
 
-```
+```bash
 git clone https://github.com/YOUR_USERNAME/CampusConnect-Pro.git
 cd CampusConnect-Pro
 ```
@@ -150,7 +141,7 @@ cd CampusConnect-Pro
 
 # Running the Backend
 
-```
+```bash
 cd backend
 npm install
 node server.js
@@ -160,7 +151,7 @@ node server.js
 
 # Running the Frontend
 
-```
+```bash
 cd frontend
 npm install
 npm run dev
@@ -183,12 +174,26 @@ backend/config/db.js
 # Learning Outcomes
 
 Through this project I learned:
-• Building full-stack applications using React and Node.js
-• Designing REST APIs and backend architecture
-• Database modeling with MongoDB
-• Implementing authentication with JWT
-• Integrating basic AI/NLP techniques for resume analysis
+
+- Building full-stack applications using React and Node.js  
+- Designing REST APIs and backend architecture  
+- Database modeling with MongoDB  
+- Implementing authentication using JWT  
+- Integrating basic AI/NLP techniques for resume analysis  
 
 ---
 
-Thank You
+# Author
+
+**Dileep Tallamapuram**  
+B.Tech Student
+
+---
+
+# Acknowledgment
+
+This project was developed as part of a **college software engineering project to explore full-stack development and AI-assisted recruitment systems.**
+
+---
+
+# Thank You
