@@ -183,7 +183,6 @@ backend/config/db.js
 # Learning Outcomes
 
 Through this project I learned:
-
 • Building full-stack applications using React and Node.js
 • Designing REST APIs and backend architecture
 • Database modeling with MongoDB
