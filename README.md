@@ -1,6 +1,6 @@
 # CampusConnect Pro
 
-=======
+
 ## AI-Assisted Internship Management Platform
 
 CampusConnect Pro is a full-stack web application designed to simplify the internship recruitment process by connecting **students and companies on a single platform**.
