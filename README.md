@@ -183,17 +183,5 @@ Through this project I learned:
 
 ---
 
-# Author
-
-**Dileep Tallamapuram**  
-B.Tech Student
-
----
-
-# Acknowledgment
-
-This project was developed as part of a **college software engineering project to explore full-stack development and AI-assisted recruitment systems.**
-
----
 
 # Thank You
