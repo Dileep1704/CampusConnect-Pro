@@ -1,17 +1,5 @@
 # CampusConnect Pro
-<<<<<<< HEAD
 
-Full Stack Internship Management Platform
-
-## Tech Stack
-- Next.js
-- Node.js + Express
-- MongoDB
-- Docker
-- NGINX
-
-## Run
-docker-compose up --build
 =======
 ## AI-Assisted Internship Management Platform
 
